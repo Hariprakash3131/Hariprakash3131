@@ -1,6 +1,9 @@
-# Hi 👋, I'm Hariprakash M
+<h1 align="center">Hi 👋, I'm Hariprakash M</h1>
+<h3 align="center">🚀 React & Full Stack Developer</h3>
 
-### 🚀 Frontend & Full Stack Developer
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Hariprakash3131&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
 
 - 🎓 BCA Graduate (2025)
 - 💻 I love building responsive web applications
