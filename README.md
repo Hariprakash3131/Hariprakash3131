@@ -7,7 +7,7 @@
 
 - 🎓 BCA Graduate (2025)
 - 💻 I love building responsive web applications
-- 🌱 Currently learning DevOps & Advanced React
+- 🌱 Currently learning NodeJs & Advanced React
 - 📍 Tamil Nadu, India
 
 ---
